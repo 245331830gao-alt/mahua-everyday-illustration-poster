@@ -1,0 +1,4 @@
+interface:
+  display_name: "麻花·日系生活插画海报"
+  short_description: "上传照片生成蓝色复古人物插画海报，支持英文大标题前后分层与手写小字"
+  default_prompt: "使用 $mahua-everyday-illustration-poster，将我上传的照片制作成日系生活插画海报。"
