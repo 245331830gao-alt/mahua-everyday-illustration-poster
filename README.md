@@ -12,6 +12,16 @@
 - 支持自然语言修改标题层次、底色、比例、语言和装饰词
 - 多张照片分别输出，不拼接成一张
 
+## 案例
+
+| RIDE FREE | COFFEE TOGETHER |
+| --- | --- |
+| ![RIDE FREE 骑行海报](examples/ride-free.png) | ![COFFEE TOGETHER 咖啡馆双人海报](examples/coffee-together.png) |
+
+| STREET COMPANIONS | SKY KEEPER |
+| --- | --- |
+| ![STREET COMPANIONS 人与狗海报](examples/street-companions.png) | ![SKY KEEPER 女孩与鹰海报](examples/sky-keeper.png) |
+
 ## 安装
 
 将本仓库克隆或复制到 Codex Skills 目录：
@@ -50,6 +60,11 @@ mahua-everyday-illustration-poster/
 ├── assets/
 │   ├── approved-behind.jpg
 │   └── approved-mixed.jpg
+├── examples/
+│   ├── coffee-together.png
+│   ├── ride-free.png
+│   ├── sky-keeper.png
+│   └── street-companions.png
 └── references/
     └── style-and-prompts.md
 ```
